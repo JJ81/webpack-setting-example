@@ -1,7 +1,7 @@
 # webpack-test
-npm install webpack -g
-npm install webpack -S
-
-webpack
-NODE_ENV=production webpack
+npm install webpack -g<br />
+npm install webpack -S<br />
+<br />
+$webpack <br /> 
+$NODE_ENV=production webpack<br />
 
