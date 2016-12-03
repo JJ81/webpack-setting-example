@@ -23,7 +23,8 @@ module.exports = {
       "error",
       "always"
     ],
-    "no-console": "off"
+    "no-console": "off",
+    "no-unused-vars": 1
   },
   "parserOptions": {
     "ecmaVersion": 6,
