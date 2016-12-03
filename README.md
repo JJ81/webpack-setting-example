@@ -1,2 +1,2 @@
-# webpack-setting-guide
+# webpack-setting-example
 
